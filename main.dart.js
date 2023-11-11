@@ -31586,7 +31586,7 @@ case 1:return A.z(q,r)}})
 return A.A($async$ajI,r)},
 ajJ(a,b,c,d,e,f,g){var s=0,r=A.B(t.c),q,p,o
 var $async$ajJ=A.x(function(h,i){if(h===1)return A.y(i,r)
-while(true)switch(s){case 0:p=A.a7(["email",c,"phone",f,"password",e,"userName",g,"birthDay",b,"address",a,"gender",d.d],t.N,t.K)
+while(true)switch(s){case 0:p=A.a7(["email",c,"phone",f,"password",e,"confirmPassword","","userName",g,"birthDay",b,"address",a,"gender",d.d],t.N,t.K)
 o=A
 s=3
 return A.I($.dX().lV("DEFAULT_CANCEL_TAG",p,"https://restaurantbe-production.up.railway.app/account/create"),$async$ajJ)
